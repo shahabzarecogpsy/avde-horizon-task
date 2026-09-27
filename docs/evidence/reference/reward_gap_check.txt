@@ -1,0 +1,5 @@
+latent gap                     : 4.0000
+truncated (continuous) means   : Low 18.3384  High 22.0952  gap 3.7569
+expected rounded free draws    : Low 18.3382  High 22.0952  gap 3.7570  (exact integration)
+Monte Carlo (n=400000)         : Low 18.3365  High 22.0927  gap 3.7562
+displayed forced gap in TEST_REFERENCE_events.csv: min 4.000000 max 4.000000 over 112 games

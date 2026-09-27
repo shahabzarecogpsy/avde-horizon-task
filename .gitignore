@@ -1,0 +1,16 @@
+# Participant / session data: NEVER commit (privacy; also excluded from the manifest)
+/data/
+# Local configuration with personal paths (copy config/SET_LOCAL_PATHS_example.m)
+config/SET_LOCAL_PATHS.m
+# Face images are licensed separately and are never part of this repository
+**/CFD*/
+*.jpg
+*.jpeg
+# Editor / interpreter by-products
+*.asv
+*.m~
+octave-workspace
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

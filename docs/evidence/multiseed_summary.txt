@@ -1,0 +1,6 @@
+Multi-seed validation, build 0.13.3+d455ed452431, GNU Octave 8.4, synthetic CFD folder: 100 seeds
+unique plans 100; H6-PN 8/8/8/8 100/100; practice coverage 100/100
+max run same horizon 5; min planned image/identity lag 3/3; forced gap 4.0000..4.0000; max reward attempts 617
+template means Low 18.264 High 22.097
+nominal chi-square (sparse tables; weak evidence): identity x High/Low p<.05 in 5%, identity x less/more-observed p<.05 in 4%
+face images per participant 133-133

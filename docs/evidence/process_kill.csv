@@ -1,0 +1,5 @@
+trial,kills,ok,detail
+1,2,1,finalized by avde_reexport after kill during export; aborted=[87] expected>=[87]; all checks passed
+2,1,1,aborted=[38] expected>=[38]; all checks passed
+3,2,1,finalized by avde_reexport after kill during export; aborted=[78] expected>=[78]; all checks passed
+4,2,1,"aborted=[32, 42] expected>=[32, 42]; all checks passed"

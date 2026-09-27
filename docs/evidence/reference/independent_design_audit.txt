@@ -1,0 +1,47 @@
+== Design counts (horizon x valence condition)
+valenceCondition  NN  PN  PP  All
+horizon                          
+1                 16  16  16   48
+6                 16  32  16   64
+All               32  48  32  112
+
+== H1-PN: valence of the High option
+col_0     n
+highVal    
+Negative  8
+Positive  8
+
+== H6-PP less-observed reward level
+lessLev
+High    8
+Low     8
+
+== H6-NN less-observed reward level
+lessLev
+High    8
+Low     8
+
+== H6-PN: valence x reward level of the LESS-observed option
+lessLev   High  Low
+lessVal            
+Negative     8    8
+Positive     8    8
+
+== Presentation balance
+High is A: 56/112; High on left: 56/112; H6 more-informed A: 32/64; Positive-is-A (PN): 24/48
+
+== Sections (games per section by horizon x valence)
+horizon           1        6      
+valenceCondition NN PN PP NN PN PP
+section                           
+1                 2  3  2  2  5  2
+2                 2  2  2  3  5  2
+3                 2  2  3  2  4  3
+4                 2  2  3  3  4  2
+5                 2  3  2  2  5  2
+6                 3  2  2  2  4  3
+7                 3  2  2  2  5  2
+
+max run of same horizon: 5
+
+AUDIT PASS

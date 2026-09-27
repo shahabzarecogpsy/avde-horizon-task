@@ -1,0 +1,15 @@
+inter-game end->first face: n=105 mean 2.0000 max 2.0000 slope 0.00e+00 s/game; late 0 (0.0%); min slack 1.4599 s
+flips 3639, missed frames 0 (0.00%)
+  affective_preview  n= 448 onsetError median +0.0000  p99 +0.0000  max +0.0000 s
+  forced_cue         n= 448 onsetError median +0.0000  p99 +0.0000  max +0.0000 s
+  forced_iti         n= 448 onsetError median -0.0000  p99 +0.0000  max +0.0000 s
+  forced_point       n= 448 onsetError median +0.0000  p99 -0.0000  max -0.0000 s
+  free_choice        n= 432 onsetError median +0.0000  p99 +0.0000  max +0.0000 s
+  game_end           n= 112 onsetError median +0.0000  p99 +0.0000  max +0.0000 s
+  game_reset         n= 112 onsetError median +0.0000  p99 +0.0049  max +0.0079 s
+  joint_outcome      n= 419 onsetError median -0.0001  p99 +0.0082  max +0.0083 s
+  outcome_iti        n= 324 onsetError median +0.0000  p99 +0.0000  max +0.0000 s
+  preview_iti        n= 448 onsetError median +0.0000  p99 +0.0000  max +0.0000 s
+response->outcome delay: median 0.0332  max 0.0417 s (n=419)
+RESULT: PASS
+plot -> TEST_REFERENCE_timing_report.png
